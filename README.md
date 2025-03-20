@@ -2,7 +2,7 @@
 
 ```
 git clone https://github.com/habo3hnk/async-xml-api.git
-cd your-repo  
+cd async-xml-api
 
 python -m venv venv  
 
