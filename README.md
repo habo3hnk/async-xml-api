@@ -1,7 +1,7 @@
 # async-xml-api 
 
 ```
-git clone https://github.com/habo3hnk/async-xml-api
+git clone https://github.com/habo3hnk/async-xml-api.git
 cd your-repo  
 
 python -m venv venv  
